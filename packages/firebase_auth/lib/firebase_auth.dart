@@ -12,6 +12,7 @@ import 'package:meta/meta.dart';
 
 part 'src/auth_provider/email_auth_provider.dart';
 part 'src/auth_provider/facebook_auth_provider.dart';
+part 'src/auth_provider/apple_auth_provider.dart';
 part 'src/auth_provider/github_auth_provider.dart';
 part 'src/auth_provider/google_auth_provider.dart';
 part 'src/auth_provider/phone_auth_provider.dart';
