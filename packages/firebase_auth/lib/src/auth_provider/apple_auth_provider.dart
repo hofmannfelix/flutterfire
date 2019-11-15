@@ -1,6 +1,4 @@
-
-import 'package:firebase_auth/firebase_auth.dart';
-import 'package:xcept_core/Models/Base/BaseModel.dart';
+part of firebase_auth;
 
 class AppleAuthProvider {
   static const String providerId = 'apple.com';
